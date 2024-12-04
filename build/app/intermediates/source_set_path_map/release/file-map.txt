@@ -1,0 +1,14 @@
+com.example.foodieee.app-core-1.6.0-0 C:\Users\shyam\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+com.example.foodieee.app-jetified-window-java-1.0.0-beta04-1 C:\Users\shyam\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.foodieee.app-jetified-annotation-experimental-1.1.0-2 C:\Users\shyam\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.foodieee.app-webkit-1.11.0-3 C:\Users\shyam\.gradle\caches\transforms-3\e536ff8f3e9ca85a08e5179e81aaf167\transformed\webkit-1.11.0\res
+com.example.foodieee.app-jetified-window-1.0.0-beta04-4 C:\Users\shyam\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+com.example.foodieee.app-main-5 D:\flutter\foodieee\android\app\src\main\res
+com.example.foodieee.app-release-6 D:\flutter\foodieee\android\app\src\release\res
+com.example.foodieee.app-pngs-7 D:\flutter\foodieee\build\app\generated\res\pngs\release
+com.example.foodieee.app-resValues-8 D:\flutter\foodieee\build\app\generated\res\resValues\release
+com.example.foodieee.app-rs-9 D:\flutter\foodieee\build\app\generated\res\rs\release
+com.example.foodieee.app-mergeReleaseResources-10 D:\flutter\foodieee\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.foodieee.app-mergeReleaseResources-11 D:\flutter\foodieee\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.foodieee.app-merged_res-12 D:\flutter\foodieee\build\app\intermediates\merged_res\release
+com.example.foodieee.app-packaged_res-13 D:\flutter\foodieee\build\webview_flutter_android\intermediates\packaged_res\release
