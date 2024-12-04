@@ -1,16 +1,15 @@
-# foodieee
+# Food_recipies
+# Simple Food Recipe App 🍽️<br>
+A beautifully designed Food Recipe App built using Flutter that provides users with a wide range of recipes based on their search preferences. This app is perfect for food enthusiasts who love discovering and trying out new recipes!<br>
 
-A new Flutter project.
+Features ✨<br>
+🔍 Recipe Search: Search for various recipes based on ingredients, cuisine, or meal type.<br>
+🍲 Detailed Recipe View: Get step-by-step instructions, ingredients, and cooking time for each recipe.<br>
+📄 Recipe Categories: Explore recipes from different categories such as breakfast, lunch, dinner, and snacks.<br>
+🌐 Third-Party Recipe API Integration: Fetches dynamic recipe data from a third-party API, providing an extensive collection of dishes.<br>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech Stack 🛠️<br>
+Flutter: Cross-platform development framework.<br>
+Dart: Programming language used with Flutter.<br>
+Third-Party Recipe API: Used to fetch recipe details dynamically.<br>
